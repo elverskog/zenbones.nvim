@@ -1,4 +1,4 @@
-local colors_name = "gruvbones"
+local colors_name = "test"
 vim.g.colors_name = colors_name -- Required when defining a colorscheme
 
 local lush = require "lush"
