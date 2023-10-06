@@ -1,5 +1,9 @@
 [
     {
+        "name": "ee",
+        "description": "A contrast-based colorscheme."
+    },
+    {
         "name": "zenbones",
         "description": "A contrast-based colorscheme."
     },
